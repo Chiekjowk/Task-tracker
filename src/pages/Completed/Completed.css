@@ -1,0 +1,13 @@
+.completed{
+    width: 100%;
+    background: #031F3D;
+    border-radius: 1rem;
+    margin-left: 2rem;
+}
+.complete-title{
+    padding-left: 4rem;
+    font-size: 1.2rem;
+    font-family: sans-serif;
+    margin-top: 1rem;
+    color: #fff;
+}
